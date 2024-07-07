@@ -2,13 +2,13 @@
 
 Projects that I have created for past classes!
 
-**CS200 (Programming I):**
+_**CS200 (Programming I):**_
 
 H8CustomApp: Loan Calculator
 
 H12CustomApp: User-Generated Movie Ratings
 
-**CS300 (Programming II, Intro. to Object-Oriented Programming):**
+_**CS300 (Programming II, Intro. to Object-Oriented Programming):**_
 
 P01 Wardrobe Manager: A Java program to manage wardrobe items utilizing procedural programming, array manipulation, and software testing with boolean tester methods.
 
