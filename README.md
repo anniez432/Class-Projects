@@ -2,23 +2,23 @@
 
 Projects that I have created for past classes!
 
-_**CS200 (Programming I):**_
+**CS200 (Programming I):**
 
-H8CustomApp: Loan Calculator
+_H8CustomApp_: Loan Calculator
 
-H12CustomApp: User-Generated Movie Ratings
+_H12CustomApp_: User-Generated Movie Ratings
 
-_**CS300 (Programming II, Intro. to Object-Oriented Programming):**_
+**CS300 (Programming II, Intro. to Object-Oriented Programming):**
 
-P01 Wardrobe Manager: A Java program to manage wardrobe items utilizing procedural programming, array manipulation, and software testing with boolean tester methods.
+_P01 Wardrobe Manager_: A Java program to manage wardrobe items utilizing procedural programming, array manipulation, and software testing with boolean tester methods.
 
-P06 Suitcase Packing: A program developed with a partner for packing a suitcase with various strategies - rushed packing, greedy packing, and optimal packing.
+_P06 Suitcase Packing_: A program developed with a partner for packing a suitcase with various strategies - rushed packing, greedy packing, and optimal packing.
 
-P07 Task Manager: A task manager implemented with doubly-linked lists.
+_P07 Task Manager_: A task manager implemented with doubly-linked lists.
 
-P08 Mr. Markov: A Markov Chain Model for text generation implemented and tested with stack and queue data structures.
+_P08 Mr. Markov_: A Markov Chain Model for text generation implemented and tested with stack and queue data structures.
 
-P09 Gradebook: A binary search tree-based gradebook that uses BST operations and iterators. 
+_P09 Gradebook_: A binary search tree-based gradebook that uses BST operations and iterators. 
 
-P10 Prioritized Task Manager: A task manager implemented with an array-based max-heap.
+_P10 Prioritized Task Manager_: A task manager implemented with an array-based max-heap.
 
