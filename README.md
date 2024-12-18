@@ -22,3 +22,7 @@ _P09 Gradebook_: A binary search tree-based gradebook that uses BST operations a
 
 _P10 Prioritized Task Manager_: A task manager implemented with an array-based max-heap.
 
+**CS400 (Programming III, Advanced DS & Software Engineering):**
+
+_iSongly_: A Java application that allows users to interact with songs to 
+filter them by year, loudness, and danceability.
