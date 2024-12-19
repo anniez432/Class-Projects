@@ -25,4 +25,15 @@ _P10 Prioritized Task Manager_: A task manager implemented with an array-based m
 **CS400 (Programming III, Advanced DS & Software Engineering):**
 
 _iSongly_: A Java application that allows users to interact with songs to 
-filter them by year, loudness, and danceability.
+filter them by year, loudness, and danceability. 
+Files/algorithms I implemented:
+<ol>
+  <li>Backend: The backend for this app & BackendTests</li>
+  <li>BinarySearchTree</li>
+  <li>BSTRotation: BST that can rotate given valid nodes</li>
+  <li>IterableRedBlackTree</li>
+  <li>RedBlackTree</li>
+  <li>SongComparator</li>
+</ol>
+
+All other files were created by my partner (zzou39@wisc.edu) or the UW-Madison CS400 staff.
